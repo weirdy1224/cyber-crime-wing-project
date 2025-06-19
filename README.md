@@ -1,13 +1,13 @@
-**RUN THESE COMMANDS TO SETUP THE ENVIRONMENT**
-1.npm install code/frontend/requirements.txt
-2. npm install code/frontend/requirements.txt
+**RUN THESE COMMANDS TO SETUP THE ENVIRONMENT**<br />
+1.npm install code/frontend/requirements.txt <br />
+2.npm install code/frontend/requirements.txt
 
-**TO RUN THE WEBSITE**
+**TO RUN THE WEBSITE** <br />
 
-_Open a terminal_
-cd code/frontend
-npm start
+**_Open a terminal_** <br />
+cd code/frontend <br />
+npm start <br />
 
-_Open another terminal_
-cd code/backend
-npm index.js
+**_Open another terminal_** <br />
+cd code/backend <br />
+npm index.js <br />

@@ -10,4 +10,4 @@ npm start <br />
 
 **_Open another terminal_** <br />
 cd code/backend <br />
-npm index.js <br />
+node index.js <br />

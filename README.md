@@ -1,6 +1,6 @@
 **RUN THESE COMMANDS TO SETUP THE ENVIRONMENT**
-npm install code/frontend/requirements.txt
-npm install code/frontend/requirements.txt
+1.npm install code/frontend/requirements.txt
+2. npm install code/frontend/requirements.txt
 
 **TO RUN THE WEBSITE**
 
